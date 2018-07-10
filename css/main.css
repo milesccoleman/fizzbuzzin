@@ -1,0 +1,58 @@
+/* Styles for WATS 3020 FizzBuzz Assignment */
+
+#header {
+	background-color: orange; 
+	height: 25%; 
+	text-align: center; 
+	margin-top: -30px; 
+	font-size: 50px; 
+
+}
+#max-number {
+    font-weight: 700;
+}
+
+pre {
+    padding: 1rem;
+    background: #e8e8e8;
+    font-size: 1.4rem;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: white; 
+    background-color: purple; 
+
+}
+
+span {
+	color: red; 
+
+}
+#checkit {
+	font-size: 50px; 
+	text-align: center; 
+	width: 50%; 
+}
+#output {
+	background-color: #272727;
+	color: green; 
+    position: absolute;
+    padding-top: 55px; 
+    left: 50%;
+    width: 47.3%; 
+    z-index: -1;
+    margin-top: -341px; 
+    text-align: left; 
+}
+
+#legend {
+	background-color: blue; 
+	width: 180px; 
+	height: 75px; 
+	text-align: left;
+	padding: 1rem;
+	margin-left: 16%; 
+}
